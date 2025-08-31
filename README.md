@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iamrsn)
 
